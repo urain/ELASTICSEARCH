@@ -1,2 +1,2 @@
-# ELASTICSEARCH_Python
+# ELASTICSEARCH
 Various ElasticSearch scripts and utilities.
